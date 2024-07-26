@@ -1,0 +1,49 @@
+HTTP/2 200 OK
+
+Date: Fri, 26 Jul 2024 10:17:01 GMT
+
+Content-Type: application/json; charset=UTF-8
+
+Cache-Control: no-store, max-age=0, no-cache
+
+Vary: Accept-Encoding
+
+Cf-Cache-Status: DYNAMIC
+
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IFi%2Fkc5BFLFOEaAp9SNLO1ETUfdst5B6SferDTtEQ%2FYiLH64TlRAllBow%2FLplK5Z8UId3qOp5ElKygFv3BP%2BJRH%2F2U5m2e4%2B8LdY%2FAVAd9VlIECiGoCSotVMs4BbDdoy"}],"group":"cf-nel","max_age":604800}
+
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+
+Server: cloudflare
+
+Cf-Ray: 8a93a3381b9799a2-CDG
+
+Alt-Svc: h3=":443"; ma=86400
+
+
+
+{
+    "status": true,
+    "14july": true,
+    "9BGMI": false,
+    "17JULY": true,
+    "data": {
+        "EXP": "2024-07-27 12:35:12",
+        "MAXDEV": "1",
+        "SMESSAGE": "PLAY SAFE | AVOID REPORTS",
+        "Sprotection": "ghdhhv54fSD7hR67LL",
+        "Expiry": "2024-06-13 02:38:25",
+        "ServerGL": "true",
+        "token": "00c180eb42fe8a5cc23a1e453d7a1fa8",
+        "Lib_P_Link32": "https://modpanel.online/mod/play/libpubgm.so",
+        "Lib_P_Link64": "https://modpanel.online/mod/play/libpubgm64.so",
+        "Lib_B_Link32": "https://modpanel.online/mod/play/libbgmi.so",
+        "Lib_B_Link64": "https://modpanel.online/mod/play/libbgminew.so",
+        "Lib_V_Link32": "https://modpanel.online/mod/play/libpubgmvn.so",
+        "Lib_V_Link64": "https://modpanel.online/mod/play/libpubgmvn64.so",
+        "Lib_L_Link32": "https://modpanel.online/mod/play/libpubgmlite.so",
+        "Lib_L_Link64": "https://modpanel.online/mod/play/libpubgmlite64.so",
+        "ServerUpdater": "play_july23",
+        "rng": 1721989018
+    }
+}
